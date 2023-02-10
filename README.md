@@ -1,2 +1,2 @@
 # B2PM
-Code for the paper of few-shot semantic segmentation.
+Code for the paper of General Few Shot Semantic Segmentation.
